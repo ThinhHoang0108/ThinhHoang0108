@@ -10,6 +10,10 @@
 
 ## <picture><img src = "https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" width = 50px></picture> **About me**
 
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=ThinhHoang0108&color=green" alt="watching_count" />
+ </p>
+
 <picture> <img align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width = 250px></picture>
 
 <br>
