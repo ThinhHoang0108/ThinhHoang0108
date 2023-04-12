@@ -16,9 +16,13 @@
 
 <picture> <img align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width = 300px></picture>
 
-- 🌱 I’m currently learning Java Web Development and other programming languages
+- I currently live in Hanoi.
 
-- ⚡ Interest :- Food and Music🎵
+- I daily work with Github, SQL Server, Java Servlet and JavaScript. But I'm still interested in various other technologies such as Python, Go, Ruby, etc.
+
+- I’m currently learning Java Web Development and other programming languages
+
+- In my free time, I love playing games, reading books and listening music.🎵
 
 ## Technology I used
 
