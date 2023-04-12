@@ -26,7 +26,7 @@
 
 ## Technology I used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinhHoang0108&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://thinh-hoang0108test.vercel.app/api/top-langs/?username=ThinhHoang0108&layout=compact)](https://github.com/ThinhHoang0108/ThinhHoang0108test)
 
 ## Technology I used
 
