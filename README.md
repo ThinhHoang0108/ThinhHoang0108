@@ -25,7 +25,7 @@
     alt="Thinh" 
     bg_color=#808080/></p>
 
-## Technology
+## Technology I used
 
 **1. Frontend**
 
