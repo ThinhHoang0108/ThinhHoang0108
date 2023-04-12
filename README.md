@@ -26,6 +26,10 @@
 
 ## Technology I used
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinhHoang0108&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Technology I used
+
 **1. Frontend**
 
 <div>
