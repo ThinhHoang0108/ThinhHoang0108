@@ -19,6 +19,11 @@
 - ⚡ Interest :- Food and Music🎵
 
 ## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThinhHoang0108&show_icons=true&hide=prs,issues&theme=buefy)
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ThinhHoang0108&show_icons=true&hide=prs,issues&theme=buefy"
+    alt="Thinh" 
+    bg_color=#808080/></p>
 
 ## Technology
 
