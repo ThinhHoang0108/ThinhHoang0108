@@ -24,6 +24,7 @@
 
 - In my free time, I love playing games, reading books and listening music.🎵
 
+<br><br>
 ## Technology I used
 
 
