@@ -25,7 +25,7 @@
 - In my free time, I love playing games, reading books and listening music.🎵
 
 <br><br>
-## Technology I used
+## Github stats
 
 
 ![Anurag's GitHub stats](https://thinh-hoang0108test.vercel.app/api?username=ThinhHoang0108&show_icons=true&theme=buefy) &nbsp;&nbsp;&nbsp;&nbsp;
