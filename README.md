@@ -18,9 +18,9 @@
 
 - I currently live and work in Hanoi.
 
-- I daily work with Github, SQL Server, Java Servlet and JavaScript. But I'm still interested in various other technologies such as Python, Go, Ruby, etc.
+- I daily work with Github, SQL Server, Spring boot and JavaScript. But I'm still interested in various other technologies such as SAP ABAP, SAP FIORI etc.
 
-- I’m currently learning Java Web Development and other programming languages
+- I’m currently learning SAP Developer and other framework Spring boot.
 
 - In my free time, I love playing games, reading books and listening music.🎵
 
