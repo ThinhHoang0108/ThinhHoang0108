@@ -20,7 +20,7 @@
 
 - I daily work with Github, SQL Server, Spring boot and JavaScript. But I'm still interested in various other technologies such as SAP ABAP, SAP FIORI etc.
 
-- I’m currently learning SAP Developer and other framework Spring boot.
+- I’m currently learning SAP ABA{ and other framework Spring boot.
 
 - In my free time, I love playing games, reading books and listening music.🎵
 
