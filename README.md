@@ -37,6 +37,9 @@
   <img src ="https://img.icons8.com/color/48/null/javascript--v1.png" alt="JavaScript logo" width="4%" title='JavaScript'/>
   <img src ="https://img.icons8.com/ios-filled/50/null/jsp.png" alt="ES6 logo" width="4%" title='Java Scripting Preprocessor'/>
   <img src ="https://simpleicons.org/icons/axios.svg" width="4%" title='Axios'/>
+  <img src ="https://cloudmatetechnologies.com/wp-content/uploads/2024/06/react.js.png" width="4%" title='Reactjs'/>
+  <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlFpVfSL1MQk3iUo9XKqBNgeUcxIxqtlfZcg&s" width="4%" title='SAPUI5'/>
+  
   <div> 
 <div>
 
