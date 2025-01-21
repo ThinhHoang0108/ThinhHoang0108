@@ -25,13 +25,6 @@
 - In my free time, I love playing footballs, reading books and listening music.🎵
 
 <br><br>
-## Github stats
-
-
-![Anurag's GitHub stats](https://thinh-hoang0108test.vercel.app/api?username=ThinhHoang0108&show_icons=true&theme=buefy) &nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://thinh-hoang0108test.vercel.app/api/top-langs/?username=ThinhHoang0108&layout=compact)](https://github.com/ThinhHoang0108/ThinhHoang0108test)
-
-
 ## Technology I used
 
 **1. Frontend**
