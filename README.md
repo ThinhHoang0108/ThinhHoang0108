@@ -47,12 +47,16 @@
 
   <div>
   <img src ="https://itphutran.com/wp-content/uploads/2017/05/V%C3%AD-d%E1%BB%A5-v%E1%BB%81-Servlet.png" alt="CSS3 logo" width="4%" title='JSP/Servlet'/>
+    <img src ="https://cdn.bap-software.net/2024/01/03211643/How-is-AI-applied-to-Java-programming-e1704266486769.jpg" alt="Java" width="4%" title='Java'/>
+    <img src ="https://cdn.bap-software.net/2024/08/26213247/spring.jpg" alt="Spring boot" width="4%" title='Spring boot'/>
+    <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzeu6AFOYoIPrn_BI32C1dGhgm9GlkfZboQQ&s" alt="SAP ABAP" width="4%" title='SAP ABAP'/>
   <div> 
 
 **3. Database**
 
   <div>
   <img src ="https://img.icons8.com/color/48/null/microsoft-sql-server.png" alt="HTML5 logo" width="4%" title='Microsoft SQL Server'/>
+    <img src ="https://img.icons8.com/color/48/null/microsoft-sql-server.png" alt="HTML5 logo" width="4%" title='SAP S4/HANA'/>
   <div> 
 
 **4. IDE/Tool**
@@ -62,7 +66,8 @@
   <img src ="https://img.icons8.com/fluency/48/null/figma.png" alt="CSS3 logo" width="4%" title='Figma'/>
   <img src ="https://img.icons8.com/color/48/null/tomcat.png" width="4%" title='Tomcat'/>
   <img src ="https://img.icons8.com/ios-filled/50/null/github.png" width="4%" title='Github'/>
-  <img src ="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png" width="4%" title='Java JDK'/>
+  <img src ="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png" width="4%" title='Eclipse'/>
+  <img src ="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png" width="4%" title='SAP GUI'/>
 <div>
 
 
