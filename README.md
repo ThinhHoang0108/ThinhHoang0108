@@ -56,7 +56,7 @@
 
   <div>
   <img src ="https://img.icons8.com/color/48/null/microsoft-sql-server.png" alt="HTML5 logo" width="4%" title='Microsoft SQL Server'/>
-    <img src ="https://btmglobal.com.vn/wp-content/uploads/2023/06/Tim-hieu-ve-SAP-S4-HANA-Giai-phap-quan-ly-doanh-nghiep-hieu-qua.png" alt="HTML5 logo" width="4%" title='SAP S4/HANA'/>
+    <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB0d5Ky1cY2dZfjxbjNBjQAM1D5v1x4Ncx_Q&s" alt="SAP S4/HANA" width="4%" title='SAP S4/HANA'/>
   <div> 
 
 **4. IDE/Tool**
