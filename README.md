@@ -56,7 +56,7 @@
 
   <div>
   <img src ="https://img.icons8.com/color/48/null/microsoft-sql-server.png" alt="HTML5 logo" width="4%" title='Microsoft SQL Server'/>
-    <img src ="https://img.icons8.com/color/48/null/microsoft-sql-server.png" alt="HTML5 logo" width="4%" title='SAP S4/HANA'/>
+    <img src ="https://btmglobal.com.vn/wp-content/uploads/2023/06/Tim-hieu-ve-SAP-S4-HANA-Giai-phap-quan-ly-doanh-nghiep-hieu-qua.png" alt="HTML5 logo" width="4%" title='SAP S4/HANA'/>
   <div> 
 
 **4. IDE/Tool**
@@ -67,7 +67,7 @@
   <img src ="https://img.icons8.com/color/48/null/tomcat.png" width="4%" title='Tomcat'/>
   <img src ="https://img.icons8.com/ios-filled/50/null/github.png" width="4%" title='Github'/>
   <img src ="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png" width="4%" title='Eclipse'/>
-  <img src ="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png" width="4%" title='SAP GUI'/>
+  <img src ="https://media.licdn.com/dms/image/v2/D5612AQEYTdpJXv-2uA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1706122304083?e=2147483647&v=beta&t=mL26U7N1l0zmbNmNbAMAUFfyIZy5xxEz726-PLuJqns" width="4%" title='SAP GUI'/>
 <div>
 
 
