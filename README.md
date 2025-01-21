@@ -66,6 +66,8 @@
   <img src ="https://img.icons8.com/fluency/48/null/figma.png" alt="CSS3 logo" width="4%" title='Figma'/>
   <img src ="https://img.icons8.com/color/48/null/tomcat.png" width="4%" title='Tomcat'/>
   <img src ="https://img.icons8.com/ios-filled/50/null/github.png" width="4%" title='Github'/>
+  <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdnxN1C6EIlHEqHWDwwHFr2u0K2Lv5RXR7A&s" width="4%" title='Visual Studio Code'/>
+  <img src ="https://www.helenjoscott.com/wp-content/uploads/2020/09/1200px-IntelliJ_IDEA_Logo.png" width="4%" title='Intelij'/>
   <img src ="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png" width="4%" title='Eclipse'/>
   <img src ="https://media.licdn.com/dms/image/v2/D5612AQEYTdpJXv-2uA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1706122304083?e=2147483647&v=beta&t=mL26U7N1l0zmbNmNbAMAUFfyIZy5xxEz726-PLuJqns" width="4%" title='SAP GUI'/>
 <div>
